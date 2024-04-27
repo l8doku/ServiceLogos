@@ -23,6 +23,7 @@ This is a repository created by Sawaratsuki to upload logos of various services.
 > - Please give the appropriate credits!
 >   You are free to modify or remix it, but you must license that new work under the same license as this original logo.
 > - If you create something using this logo, mentioning [Sawaratsuki](https://x.com/sawaratsuki1004) when posting would be motivating!
+> - Do not release AI models trained on these logos.
 
 ### All items
 
